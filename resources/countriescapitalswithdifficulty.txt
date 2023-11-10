@@ -1,0 +1,244 @@
+2,United Arab Emirates,Abu Dhabi
+2,Nigeria,Abuja
+3,Ghana,Accra
+3,Pitcairn Islands,Adamstown
+3,Ethiopia,Addis Ababa
+3,Algeria,Algiers
+4,Niue,Alofi
+3,Jordan,Amman
+2,Netherlands,Amsterdam
+4,Andorra,Andorra la Vella
+2,Turkey,Ankara
+3,Madagascar,Antananarivo
+3,Samoa,Apia
+3,Turkmenistan,Ashgabat
+3,Eritrea,Asmara
+3,Kazakhstan,Astana
+4,Paraguay,Asuncin
+0,Greece,Athens
+3,Cook Islands,Avarua
+2,Iraq,Baghdad
+3,Azerbaijan,Baku
+3,Mali,Bamako
+4,Brunei,Bandar Seri Begawan
+2,Thailand,Bangkok
+3,Central African Republic,Bangui
+3,Gambia,Banjul
+3,Saint Kitts and Nevis,Basseterre
+0,China,Beijing
+3,Lebanon,Beirut
+2,Serbia,Belgrade
+2,Belize,Belmopan
+0,Germany,Berlin
+1,Switzerland,Bern
+3,Kyrgyzstan,Bishkek
+3,Guinea-Bissau,Bissau
+3,Colombia,Bogot
+1,Brazil,Braslia
+2,Slovakia,Bratislava
+3,Republic of the Congo,Brazzaville
+2,Barbados,Bridgetown
+0,Belgium,Brussels
+1,Romania,Bucharest
+1,Hungary,Budapest
+0,Argentina,Buenos Aires
+3,Burundi,Bujumbura
+0,Egypt,Cairo
+0,Australia,Canberra
+2,Venezuela,Caracas
+3,Saint Lucia,Castries
+3,French Guiana,Cayenne
+3,United States Virgin Islands,Charlotte Amalie
+3,Moldova,Chisinau
+4,Turks and Caicos Islands,Cockburn Town
+3,Guinea,Conakry
+0,Denmark,Copenhagen
+3,Senegal,Dakar
+3,Syria,Damascus
+3,Bangladesh,Dhaka
+3,East Timor (Timor-Leste),Dili
+2,Djibouti,Djibouti
+3,Tanzania,Dodoma
+3,Qatar,Doha
+1,Isle of Man,Douglas
+0,Ireland,Dublin
+3,Tajikistan,Dushanbe
+4,Tristan da Cunha,Edinburgh of the Seven Seas
+4,Sahrawi Arab Democratic Republic,El Aain
+4,Akrotiri and Dhekelia,Episkopi Cantonment
+4,Christmas Island,Flying Fish Cove
+3,Sierra Leone,Freetown
+3,Tuvalu,Funafuti
+3,Botswana,Gaborone
+2,Cayman Islands,George Town
+2,Ascension Island,Georgetown
+2,Guyana,Georgetown
+2,Gibraltar,Gibraltar
+3,South Georgia and the South Sandwich Islands,Grytviken
+2,Guatemala,Guatemala City
+3,Saint Barthlemy,Gustavia
+3,Guam,Hagta
+3,Bermuda,Hamilton
+4,Easter Island,Hanga Roa
+3,Vietnam,Hanoi
+3,Zimbabwe,Harare
+3,Somaliland,Hargeisa
+3,Cuba,Havana
+0,Finland,Helsinki
+3,Solomon Islands,Honiara
+2,Pakistan,Islamabad
+2,Indonesia,Jakarta
+3,Saint Helena,Jamestown
+2,Israel,Tel Aviv
+2,State of Palestine,Jerusalem
+3,South Sudan,Juba
+3,Afghanistan,Kabul
+3,Uganda,Kampala
+3,Nepal,Kathmandu
+3,Sudan,Khartoum
+0,Ukraine,Kiev
+3,Rwanda,Kigali
+2,Jamaica,Kingston
+3,Norfolk Island,Kingston
+3,Saint Vincent and the Grenadines,Kingstown
+3,Democratic Republic of the Congo,Kinshasa
+4,Malaysia,Kuala Lumpur
+3,Kuwait,Kuwait City
+3,Gabon,Libreville
+3,Malawi,Lilongwe
+1,Peru,Lima
+0,Portugal,Lisbon
+2,Slovenia,Ljubljana
+3,Togo,Lom
+0,United Kingdom,London
+3,Angola,Luanda
+3,Zambia,Lusaka
+0,Luxembourg,Luxembourg
+0,Spain,Madrid
+3,Marshall Islands,Majuro
+3,quatorial Guinea,Malabo
+2,Maldives,Mal
+3,Nicaragua,Managua
+3,Bahrain,Manama
+2,Philippines,Manila
+3,Mozambique,Maputo
+2,Saint Martin,Marigot
+3,Lesotho,Maseru
+4,Wallis and Futuna,Mata-Utu
+3,Swaziland,Lobamba
+3,Palau,Melekeok 
+0,Mexico,Mexico City
+1,Belarus,Minsk
+3,Somalia,Mogadishu
+2,Monaco,Monaco
+3,Liberia,Monrovia
+3,Uruguay,Montevideo
+3,Comoros,Moroni
+0,Russia,Moscow
+3,Oman,Muscat
+3,Kenya,Nairobi
+3,Bahamas,Nassau
+3,Burma,Naypyidaw
+4,Chad,N'Djamena
+0,India,New Delhi
+3,Niger,Niamey
+1,Cyprus,Nicosia
+2,Northern Cyprus,Nicosia
+3,Mauritania,Nouakchott
+3,New Caledonia,Nouma
+4,Tonga,Nuku'alofa
+2,Greenland,Nuuk
+3,Aruba,Oranjestad
+0,Norway,Oslo
+0,Canada,Ottawa
+4,Burkina Faso,Ouagadougou
+3,American Samoa,Pago Pago
+3,Federated States of Micronesia,Palikir
+2,Panama,Panama City
+3,French Polynesia,Papeete
+3,Suriname,Paramaribo
+0,France,Paris
+3,Sint Maarten,Philipsburg
+4,Cambodia,Phnom Penh
+3,Montserrat,Plymouth
+3,Montenegro,Podgorica
+4,Mauritius,Port Louis
+4,Papua New Guinea,Port Moresby
+4,Vanuatu,Port Vila
+3,Haiti,Port-au-Prince
+4,Trinidad and Tobago,Port of Spain
+4,Benin,Porto-Novo
+1,Czech Republic,Prague
+3,Cape Verde,Praia
+2,South Africa,Pretoria
+3,Kosovo,Pristina
+1,North Korea,Pyongyang
+3,Ecuador,Quito
+3,Morocco,Rabat
+1,Iceland,Reykjavk
+2,Latvia,Riga
+3,Saudi Arabia,Riyadh
+2,British Virgin Islands,Road Town
+0,Italy,Rome
+3,Dominica,Roseau
+3,Northern Mariana Islands,Saipan
+3,Costa Rica,San Jos
+3,Puerto Rico,San Juan
+2,San Marino,San Marino
+2,El Salvador,San Salvador
+4,Yemen,Sana'a
+3,Chile,Santiago
+4,Dominican Republic,Santo Domingo
+4,So Tom and Prncipe,So Tom
+2,Bosnia and Herzegovina,Sarajevo
+1,South Korea,Seoul
+2,Singapore,Singapore
+3,Macedonia,Skopje
+3,Bulgaria,Sofia
+4,Sri Lanka,Sri Jayawardenepura Kotte
+3,Grenada,St. George's
+3,Jersey,St. Helier
+3,Antigua and Barbuda,St. John's
+2,Guernsey,St. Peter Port
+2,Saint Pierre and Miquelon,St. Pierre
+2,Falkland Islands,Stanley
+3,Nagorno-Karabakh Republic,Stepanakert
+0,Sweden,Stockholm
+3,Bolivia,Sucre
+3,Abkhazia,Sukhumi
+3,Fiji,Suva
+2,Taiwan,Taipei
+3,Estonia,Tallinn
+3,Kiribati,Tarawa
+3,Uzbekistan,Tashkent
+Georgia,Tbilisi
+Honduras,Tegucigalpa
+Iran,Tehran
+Bhutan,Thimphu
+Albania,Tirana
+Transnistria,Tiraspol
+0,Japan,Tokyo
+Faroe Islands,Trshavn
+Libya,Tripoli
+South Ossetia,Tskhinvali
+Tunisia,Tunis
+Mongolia,Ulan Bator
+Liechtenstein,Vaduz
+Malta,Valletta
+Anguilla,The Valley
+Vatican City,Vatican City
+Seychelles,Victoria
+Austria,Vienna
+Laos,Vientiane
+Lithuania,Vilnius
+0,Poland,Warsaw
+0,United States,Washington D.C.
+1,New Zealand,Wellington
+Cocos (Keeling) Islands,West Island
+Curaao,Willemstad
+Namibia,Windhoek
+Ivory Coast,Yamoussoukro
+Cameroon,Yaound
+Nauru,Yaren
+Armenia,Yerevan
+Croatia,Zagreb
