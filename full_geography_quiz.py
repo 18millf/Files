@@ -11,7 +11,7 @@ lines: list[str] = file.readlines()
 
 score: int = 0
 
-for i in range (0, 10):
+for i in range (0, QUESTION_COUNT):
     random_line: int = randrange(0, len(lines));
     selection: str = lines[random_line]
     country_capital_pair: list[str] = selection.strip().split(",")
